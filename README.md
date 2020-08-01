@@ -2,8 +2,7 @@
 
 ## I'm a senior Computer Science student at [TU Delft](https://www.tudelft.nl/)
 - 🌴🌴🌴 I'm currently on vacation in Greece! 🌴🌴🌴
-
-- 🌱 I’m currently learning [ROS](https://www.ros.org/)
+- 🤖 I’m currently learning [ROS](https://www.ros.org/)
 - 🥅 2020-2021 Goals: Finish with my degree
 - ⚡ Fun fact: I play the guitar 
 <!-- - 🔭 I’m currently working on my degree  --->
