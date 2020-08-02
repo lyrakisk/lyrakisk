@@ -1,6 +1,6 @@
 ### Hi, I'm Konstantinos! 
 
-## I'm a senior Computer Science student at [TU Delft](https://www.tudelft.nl/)
+## I'm a senior Computer Science student and Teaching Assistant at [TU Delft](https://www.tudelft.nl/)
 - 🌴🌴🌴 I'm currently on vacation in Greece! 🌴🌴🌴
 - 🤖 I’m currently learning [ROS](https://www.ros.org/)
 - 🥅 2020-2021 Goals: Finish with my degree
