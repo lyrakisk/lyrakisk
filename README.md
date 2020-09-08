@@ -1,9 +1,9 @@
 ### Hi, I'm Konstantinos! 
 
 ## CS student and Teaching Assistant at [TU Delft](https://www.tudelft.nl/)
-- 🌴🌴🌴 I'm currently on vacation in Greece! 🌴🌴🌴
-- 🤖 I’m currently learning [ROS](https://www.ros.org/)
-- 🥅 2020-2021 Goals: Finish with my degree
+- 🔭 I’m currently doing my minor in Robotics! 
+- 🤖 I’m currently learning [ROS](https://www.ros.org/).
+- 🥅 2020-2021 Goals: Get my BsC.
 - ⚡ Fun fact: I play the guitar 
 <!-- - 🔭 I’m currently working on my degree  --->
 <!-- - 👯 I’m looking to collaborate with ... -->
