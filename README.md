@@ -1,6 +1,6 @@
 ### Hi, I'm Konstantinos! 
 
-## CS student and Teaching Assistant at [TU Delft](https://www.tudelft.nl/)
+## CSE student and Teaching Assistant at [TU Delft](https://www.tudelft.nl/)
 - 🔭 I’m currently doing my minor in Robotics! 
 - 🤖 I’m currently learning [ROS](https://www.ros.org/).
 - 🥅 2020-2021 Goals: Get my BsC.
